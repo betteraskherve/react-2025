@@ -1,0 +1,19 @@
+h1 {
+	margin-block: 0.67em;
+	font-size: 2em;
+	padding: 16px;
+	font-weight: lighter;
+}
+
+h2 {
+	margin-left: 0.67em;
+}
+
+h3 {
+	margin-left: 0.67em;
+}
+
+input {
+	margin-left: 16px;
+}
+
